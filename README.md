@@ -16,8 +16,7 @@ HTML , CSS.
 
 # CONTRIBUTED BY:
 
-Aryaman Singh Fauzdar
-
+Sundaram Mishra
 # SNAPSHOT OF THE WEBSITE:
 
 ![blog-project](https://user-images.githubusercontent.com/91802408/214917806-cefc66f5-cfea-4dde-be9d-e95ecd8a9378.jpeg)
